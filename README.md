@@ -2,6 +2,13 @@
 
 A simple web app that fetches and displays user data from a public API using JavaScript's Fetch API.
 
+---
+## Live Website
+
+Click below to view the site:
+
+👉 [https://tanya-12114.github.io/UserDeck/](https://tanya-12114.github.io/UserDeck/)
+
 ## Features
 
 - Fetches user data from [JSONPlaceholder](https://jsonplaceholder.typicode.com/users)
